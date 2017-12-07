@@ -14,5 +14,4 @@ alias gs='git status'
 alias basher='nano ~/.zshrc'
 alias newbash='source ~/.zshrc'
 alias gpull='git pull'
-
-
+alias gphm='git push heroku master'
